@@ -3,7 +3,7 @@
 
 <b>Programming language:</b> Python <br />
 <b>Package used:</b>PySpark<br />
-<b>Main script:</b> [Crypto_Clustering.ipynb](https://github.com/wingylui/Home_Sales/blob/main/Home_Sales_colab)<br />
+<b>Main script:</b> [Crypto_Clustering.ipynb](https://github.com/wingylui/Home_Sales/blob/main/Home_Sales_colab.ipynb)<br />
 <b>Dataset:</b> [home_sales_revised.csv](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.2/22-big-data/home_sales_revised.csv)
 
 ---
